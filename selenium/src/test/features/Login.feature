@@ -9,3 +9,4 @@ Feature: Login functionality
     And the user is making registration with password WETYJ!@#333
     When the user presses Register button
     Then the user is successfully registered
+

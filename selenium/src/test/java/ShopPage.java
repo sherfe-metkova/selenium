@@ -1,3 +1,4 @@
+import stepDefinitions.Common;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -6,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import pages.LoginPagePom;
+import pageObjectModels.LoginPagePom;
 
 import java.util.ArrayList;
 import java.util.List;
